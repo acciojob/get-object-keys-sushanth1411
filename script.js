@@ -1,6 +1,5 @@
-// your JS code here
 
-const student = {
+var student = {
     name: "John"
 };
 
